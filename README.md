@@ -19,6 +19,10 @@ pip install pdfkit
 - KorQuAD 1.0 train : KorQuAD_v1.0_train.json
 - KorQuAD 2.0 train : korquad2.1_train_00.json ~ korquad2.1_train_38.json
 
+Download Link(KorQuAD 1.0) : https://korquad.github.io/
+
+Download Link(KorQuAD 2.0) : https://korquad.github.io/KorQuad%201.0/
+
 ## Usage
 
 **data.py**를 실행시키면 Output 디렉토리에 pdf 파일 생성
