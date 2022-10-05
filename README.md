@@ -25,11 +25,12 @@ Download Link(KorQuAD 2.0) : https://korquad.github.io/KorQuad%201.0/
 
 ## Usage
 
-**data.py**를 실행시키면 Output 디렉토리에 pdf 파일 생성
+```
+python data.py
+```
 
-Output 경로에 pdf 파일 확인
+/Output 디렉토리에서 pdf 파일 확인
 
 ## Reference
-[1] https://pdfkit.org/
-
-[2] https://pypi.org/project/pdfkit/
+- https://pdfkit.org/
+- https://pypi.org/project/pdfkit/
