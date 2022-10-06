@@ -19,9 +19,11 @@ pip install pdfkit
 - KorQuAD 1.0 train : KorQuAD_v1.0_train.json
 - KorQuAD 2.0 train : korquad2.1_train_00.json ~ korquad2.1_train_38.json
 
-Download Link(KorQuAD 1.0) : https://korquad.github.io/
+### Download
 
-Download Link(KorQuAD 2.0) : https://korquad.github.io/KorQuad%201.0/
+[KorQuAD 1.0](https://korquad.github.io/)
+
+[KorQuAD 2.0](https://korquad.github.io/KorQuad%201.0/)
 
 ## Usage
 
@@ -31,6 +33,6 @@ python data.py
 
 /Output 디렉토리에서 pdf 파일 확인
 
-## Reference
+**참고**
 - https://pdfkit.org/
 - https://pypi.org/project/pdfkit/
